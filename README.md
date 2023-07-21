@@ -10,6 +10,8 @@ are required, so it is crucial to look into metric increase.
 You have the title of "Data Analyst Lead" and are employed by a corporation like Microsoft. You are
 given access to various data sets and tables from which you must draw particular conclusions and
 respond to inquiries from various departments.
+
+
 Approach :
 A data set pertaining to users is provided in the project. Copy the data set into MySQL Workbench
 after taking the data set. by building a MySQL database. Creating the necessary tables and adding the
