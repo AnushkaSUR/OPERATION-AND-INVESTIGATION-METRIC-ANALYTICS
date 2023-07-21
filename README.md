@@ -16,3 +16,5 @@ Approach :
 A data set pertaining to users is provided in the project. Copy the data set into MySQL Workbench
 after taking the data set. by building a MySQL database. Creating the necessary tables and adding the
 necessary values to those tables. addressing the project-related challenges with the help of SQL bases.
+
+READ PDF FOR EXTRA DETAILS........
